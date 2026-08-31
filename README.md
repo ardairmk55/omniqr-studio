@@ -238,43 +238,6 @@ Projeyi kendi ihtiyaçlarınıza göre geliştirebilir ve yeni modüller ekleyeb
 
 ---
 
-# 🤝 Katkıda Bulunma
-
-Projeye katkıda bulunmak isteyen geliştiriciler aşağıdaki adımları takip edebilir:
-
-### 1. Repoyu Forklayın
-
-GitHub üzerinden projeyi fork edin.
-
-### 2. Yeni Bir Branch Oluşturun
-
-```bash
-git checkout -b feature/yeni-ozellik
-```
-
-### 3. Değişikliklerinizi Yapın
-
-Kodunuzu geliştirin ve test edin.
-
-### 4. Commit Oluşturun
-
-```bash
-git commit -m "Yeni özellik eklendi"
-```
-
-### 5. Push Edin
-
-```bash
-git push origin feature/yeni-ozellik
-```
-
-Ardından GitHub üzerinden bir **Pull Request** oluşturabilirsiniz.
-
----
-
-# 📄 Lisans
-
-Bu projenin lisans bilgileri için repository içerisindeki lisans dosyasını kontrol edin.
 
 ---
 
